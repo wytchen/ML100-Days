@@ -1,0 +1,12 @@
+Day_001
+
+1. Register in github
+ 
+  Compete register
+
+  http://github.com/wytchen/
+
+2. create new repository
+ 
+  100Day-ML-Marathon
+
